@@ -67,6 +67,7 @@ python pmc_jsonl.py
 Use PMCID (not PMID) for efetch.
 
 Includes polite delays (time.sleep(1)) to avoid API rate limits.
+
 ---
 
 ## UniProt Data Fetching (API)
